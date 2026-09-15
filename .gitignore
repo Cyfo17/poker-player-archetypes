@@ -1,0 +1,17 @@
+# Data
+data/
+IRCdata.tgz
+
+# Generated tables and charts
+players.csv
+players_labeled.csv
+/clusters.png
+/supervised*.png
+/winnings*.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
